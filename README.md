@@ -44,6 +44,3 @@ gcc sudoku_solver.c -o sudoku_solver
 2 8 7 4 1 9 6 3 5
 3 4 5 2 8 6 1 7 9
 ```
-
-## License
-This project is licensed under the MIT License.
